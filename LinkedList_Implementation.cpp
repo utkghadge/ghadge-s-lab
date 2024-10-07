@@ -59,7 +59,7 @@ class LinkedList {
         node * newNode = new node(value);
         node * temp = head;
         int traverse = pos - 1;
-        while(traverse != 0 && temp->next != nullptr)
+        while(traverse != 1 && temp->next != nullptr)
         {
             temp = temp->next;
             --traverse;
@@ -147,6 +147,9 @@ int main() {
     cout << "Find 25: " << (list.find(25) ? "Found" : "Not Found") << endl;
     list.deleteValue(20);
     cout << "After deleting 20: ";
+    list.printList();
+    list.insertAtPosition(100, 3);
+    cout << "Linked List: ";
     list.printList();
 
     return 0;
