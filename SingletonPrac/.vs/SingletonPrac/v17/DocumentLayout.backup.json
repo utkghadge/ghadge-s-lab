@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Old_Lappy_backup\\D_Drive\\Utk\\practice\\SingletonPrac\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99A641E0-6C25-4B57-A438-A256CA2A9341}|SingletonPrac\\SingletonPrac.vcxproj|D:\\Old_Lappy_backup\\D_Drive\\Utk\\practice\\SingletonPrac\\SingletonPrac\\Singleton.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{99A641E0-6C25-4B57-A438-A256CA2A9341}|SingletonPrac\\SingletonPrac.vcxproj|solutionrelative:SingletonPrac\\Singleton.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A641E0-6C25-4B57-A438-A256CA2A9341}|SingletonPrac\\SingletonPrac.vcxproj|D:\\Old_Lappy_backup\\D_Drive\\Utk\\practice\\SingletonPrac\\SingletonPrac\\SingletonPrac.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{99A641E0-6C25-4B57-A438-A256CA2A9341}|SingletonPrac\\SingletonPrac.vcxproj|solutionrelative:SingletonPrac\\SingletonPrac.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A641E0-6C25-4B57-A438-A256CA2A9341}|SingletonPrac\\SingletonPrac.vcxproj|D:\\Old_Lappy_backup\\D_Drive\\Utk\\practice\\SingletonPrac\\SingletonPrac\\Singleton.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{99A641E0-6C25-4B57-A438-A256CA2A9341}|SingletonPrac\\SingletonPrac.vcxproj|solutionrelative:SingletonPrac\\Singleton.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Singleton.cpp",
+              "DocumentMoniker": "D:\\Old_Lappy_backup\\D_Drive\\Utk\\practice\\SingletonPrac\\SingletonPrac\\Singleton.cpp",
+              "RelativeDocumentMoniker": "SingletonPrac\\Singleton.cpp",
+              "ToolTip": "D:\\Old_Lappy_backup\\D_Drive\\Utk\\practice\\SingletonPrac\\SingletonPrac\\Singleton.cpp",
+              "RelativeToolTip": "SingletonPrac\\Singleton.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwB0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-08T15:50:42.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Singleton.h",
+              "DocumentMoniker": "D:\\Old_Lappy_backup\\D_Drive\\Utk\\practice\\SingletonPrac\\SingletonPrac\\Singleton.h",
+              "RelativeDocumentMoniker": "SingletonPrac\\Singleton.h",
+              "ToolTip": "D:\\Old_Lappy_backup\\D_Drive\\Utk\\practice\\SingletonPrac\\SingletonPrac\\Singleton.h",
+              "RelativeToolTip": "SingletonPrac\\Singleton.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-08T15:50:21.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SingletonPrac.cpp",
+              "DocumentMoniker": "D:\\Old_Lappy_backup\\D_Drive\\Utk\\practice\\SingletonPrac\\SingletonPrac\\SingletonPrac.cpp",
+              "RelativeDocumentMoniker": "SingletonPrac\\SingletonPrac.cpp",
+              "ToolTip": "D:\\Old_Lappy_backup\\D_Drive\\Utk\\practice\\SingletonPrac\\SingletonPrac\\SingletonPrac.cpp",
+              "RelativeToolTip": "SingletonPrac\\SingletonPrac.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-08T15:49:23.837Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
