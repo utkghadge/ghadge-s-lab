@@ -1,0 +1,7 @@
+﻿  Bike.cpp
+  Car.cpp
+  FactoryPrac.cpp
+  VehicleFactory.cpp
+  Generating Code...
+D:\Old_Lappy_backup\D_Drive\Utk\practice\FactoryPrac\VehicleFactory.cpp(16,1): warning C4715: 'VehicleFactory::CreateVehicle': not all control paths return a value
+  FactoryPrac.vcxproj -> D:\Old_Lappy_backup\D_Drive\Utk\practice\FactoryPrac\x64\Debug\FactoryPrac.exe

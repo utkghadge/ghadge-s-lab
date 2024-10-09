@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Old_Lappy_backup\\D_Drive\\Utk\\practice\\FactoryPrac\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED4B0F3-79FE-4D5D-B57D-31051875913B}|FactoryPrac.vcxproj|D:\\Old_Lappy_backup\\D_Drive\\Utk\\practice\\FactoryPrac\\FactoryPrac.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7ED4B0F3-79FE-4D5D-B57D-31051875913B}|FactoryPrac.vcxproj|solutionrelative:FactoryPrac.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED4B0F3-79FE-4D5D-B57D-31051875913B}|FactoryPrac.vcxproj|D:\\Old_Lappy_backup\\D_Drive\\Utk\\practice\\FactoryPrac\\VehicleFactory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7ED4B0F3-79FE-4D5D-B57D-31051875913B}|FactoryPrac.vcxproj|solutionrelative:VehicleFactory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED4B0F3-79FE-4D5D-B57D-31051875913B}|FactoryPrac.vcxproj|D:\\Old_Lappy_backup\\D_Drive\\Utk\\practice\\FactoryPrac\\VehicleFactory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7ED4B0F3-79FE-4D5D-B57D-31051875913B}|FactoryPrac.vcxproj|solutionrelative:VehicleFactory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED4B0F3-79FE-4D5D-B57D-31051875913B}|FactoryPrac.vcxproj|D:\\Old_Lappy_backup\\D_Drive\\Utk\\practice\\FactoryPrac\\Bike.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7ED4B0F3-79FE-4D5D-B57D-31051875913B}|FactoryPrac.vcxproj|solutionrelative:Bike.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED4B0F3-79FE-4D5D-B57D-31051875913B}|FactoryPrac.vcxproj|D:\\Old_Lappy_backup\\D_Drive\\Utk\\practice\\FactoryPrac\\Car.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7ED4B0F3-79FE-4D5D-B57D-31051875913B}|FactoryPrac.vcxproj|solutionrelative:Car.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED4B0F3-79FE-4D5D-B57D-31051875913B}|FactoryPrac.vcxproj|D:\\Old_Lappy_backup\\D_Drive\\Utk\\practice\\FactoryPrac\\Car.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7ED4B0F3-79FE-4D5D-B57D-31051875913B}|FactoryPrac.vcxproj|solutionrelative:Car.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED4B0F3-79FE-4D5D-B57D-31051875913B}|FactoryPrac.vcxproj|D:\\Old_Lappy_backup\\D_Drive\\Utk\\practice\\FactoryPrac\\Bike.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7ED4B0F3-79FE-4D5D-B57D-31051875913B}|FactoryPrac.vcxproj|solutionrelative:Bike.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED4B0F3-79FE-4D5D-B57D-31051875913B}|FactoryPrac.vcxproj|D:\\Old_Lappy_backup\\D_Drive\\Utk\\practice\\FactoryPrac\\Vehicle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7ED4B0F3-79FE-4D5D-B57D-31051875913B}|FactoryPrac.vcxproj|solutionrelative:Vehicle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VehicleFactory.cpp",
+              "DocumentMoniker": "D:\\Old_Lappy_backup\\D_Drive\\Utk\\practice\\FactoryPrac\\VehicleFactory.cpp",
+              "RelativeDocumentMoniker": "VehicleFactory.cpp",
+              "ToolTip": "D:\\Old_Lappy_backup\\D_Drive\\Utk\\practice\\FactoryPrac\\VehicleFactory.cpp",
+              "RelativeToolTip": "VehicleFactory.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-09T02:57:05.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VehicleFactory.h",
+              "DocumentMoniker": "D:\\Old_Lappy_backup\\D_Drive\\Utk\\practice\\FactoryPrac\\VehicleFactory.h",
+              "RelativeDocumentMoniker": "VehicleFactory.h",
+              "ToolTip": "D:\\Old_Lappy_backup\\D_Drive\\Utk\\practice\\FactoryPrac\\VehicleFactory.h",
+              "RelativeToolTip": "VehicleFactory.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-09T02:55:06.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bike.cpp",
+              "DocumentMoniker": "D:\\Old_Lappy_backup\\D_Drive\\Utk\\practice\\FactoryPrac\\Bike.cpp",
+              "RelativeDocumentMoniker": "Bike.cpp",
+              "ToolTip": "D:\\Old_Lappy_backup\\D_Drive\\Utk\\practice\\FactoryPrac\\Bike.cpp",
+              "RelativeToolTip": "Bike.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-09T02:52:58.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bike.h",
+              "DocumentMoniker": "D:\\Old_Lappy_backup\\D_Drive\\Utk\\practice\\FactoryPrac\\Bike.h",
+              "RelativeDocumentMoniker": "Bike.h",
+              "ToolTip": "D:\\Old_Lappy_backup\\D_Drive\\Utk\\practice\\FactoryPrac\\Bike.h",
+              "RelativeToolTip": "Bike.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-09T02:52:18.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Car.cpp",
+              "DocumentMoniker": "D:\\Old_Lappy_backup\\D_Drive\\Utk\\practice\\FactoryPrac\\Car.cpp",
+              "RelativeDocumentMoniker": "Car.cpp",
+              "ToolTip": "D:\\Old_Lappy_backup\\D_Drive\\Utk\\practice\\FactoryPrac\\Car.cpp",
+              "RelativeToolTip": "Car.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-09T02:50:51.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Car.h",
+              "DocumentMoniker": "D:\\Old_Lappy_backup\\D_Drive\\Utk\\practice\\FactoryPrac\\Car.h",
+              "RelativeDocumentMoniker": "Car.h",
+              "ToolTip": "D:\\Old_Lappy_backup\\D_Drive\\Utk\\practice\\FactoryPrac\\Car.h",
+              "RelativeToolTip": "Car.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-09T02:48:06.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Vehicle.h",
+              "DocumentMoniker": "D:\\Old_Lappy_backup\\D_Drive\\Utk\\practice\\FactoryPrac\\Vehicle.h",
+              "RelativeDocumentMoniker": "Vehicle.h",
+              "ToolTip": "D:\\Old_Lappy_backup\\D_Drive\\Utk\\practice\\FactoryPrac\\Vehicle.h",
+              "RelativeToolTip": "Vehicle.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-09T02:46:01.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FactoryPrac.cpp",
+              "DocumentMoniker": "D:\\Old_Lappy_backup\\D_Drive\\Utk\\practice\\FactoryPrac\\FactoryPrac.cpp",
+              "RelativeDocumentMoniker": "FactoryPrac.cpp",
+              "ToolTip": "D:\\Old_Lappy_backup\\D_Drive\\Utk\\practice\\FactoryPrac\\FactoryPrac.cpp",
+              "RelativeToolTip": "FactoryPrac.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-09T02:44:54.476Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
